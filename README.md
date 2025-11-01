@@ -1,4 +1,4 @@
-# Vanna 2.0+: Web-First, User-Aware Agent Framework
+#Web-First, User-Aware Agent Framework
 
 > [!WARNING]
 > This version of Vanna is actively under development and may contain breaking changes until it is officially released to PyPI.
